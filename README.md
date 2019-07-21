@@ -67,6 +67,7 @@ test.ipynbを実行すると，
 Enterキーを押すとプログラムは終了します．
 
 # 使用例
+![demo](test.gif)
 
 # 参考 引用
 
